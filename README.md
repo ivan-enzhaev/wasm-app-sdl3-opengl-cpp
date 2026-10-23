@@ -1,0 +1,1 @@
+[Guide](https://ivan-enzhaev.github.io/tutorials/sdl3-opengl/wasm/integrate-sdl3-static-opengl-wasm/)
